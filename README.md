@@ -1,74 +1,78 @@
-<!-- =========================================================
-     THEBIKAN — PREMIUM GITHUB PROFILE
-     Username: thebikan
-     ========================================================= -->
-
-<!-- =========================
-     HERO
-     ========================= -->
-
 <div align="center">
 
 # Hi, I'm <span>Thebikan Sriranganathan</span> 👋
 
 ### Software Engineer · Full-Stack Developer · AI & Web Applications
 
-I build modern web applications, AI-powered platforms, and practical digital products
-with a focus on clean interfaces, reliable backend systems, performance, and great UX.
+I build modern web applications, AI-powered platforms, and practical digital products with a focus on clean interfaces, reliable backend systems, strong performance, and thoughtful user experiences.
 
 <br>
 
 <a href="https://thebikan.dev">
-  <img src="https://img.shields.io/badge/Portfolio-thebikan.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit_Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
 <a href="https://github.com/thebikan">
-  <img src="https://img.shields.io/badge/GitHub-thebikan-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/thebikan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Thebikan-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
+<br><br>
 
-<br>
-
----
-
-<!-- =========================
-     QUICK STATS
-     ========================= -->
-
-<div align="center">
-
-| 🚀 Projects | 🤝 Clients | 💼 Experience | 🌐 Portfolio |
-|:---:|:---:|:---:|:---:|
-| **16+** | **12+** | **1+ Years** | **thebikan.dev** |
+<img src="https://komarev.com/ghpvc/?username=thebikan&style=flat-square&color=B8FF00&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-<!-- =========================
-     ABOUT
-     ========================= -->
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🚀 Projects
+
+## 16+
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤝 Clients
+
+## 12+
+
+</td>
+
+<td align="center" width="25%">
+
+### 💼 Experience
+
+## 1+ Years
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐 Website
+
+## [thebikan.dev](https://thebikan.dev)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 👨‍💻 About Me
 
-I'm a software engineer focused on building useful digital products that combine
-strong engineering with thoughtful user experience.
+I'm a software engineer focused on building useful digital products that combine strong engineering with thoughtful user experience.
 
-My work mainly spans full-stack web development, AI-powered applications,
-backend systems, APIs, dashboards, and modern developer tools.
+My work spans full-stack web development, AI-powered applications, backend systems, APIs, dashboards, developer tools, and responsive interfaces.
 
-I enjoy turning ideas into practical products that are reliable, scalable, and easy to use.
+I enjoy taking an idea from concept to a working product while keeping the experience simple, fast, maintainable, and useful.
 
 ---
-
-<!-- =========================
-     TECHNOLOGIES
-     ========================= -->
 
 ## ⚡ Tools & Technologies
 
@@ -94,10 +98,6 @@ I enjoy turning ideas into practical products that are reliable, scalable, and e
 
 ---
 
-<!-- =========================
-     FEATURED PROJECTS
-     ========================= -->
-
 ## 🚀 Featured Projects
 
 <table>
@@ -109,11 +109,11 @@ I enjoy turning ideas into practical products that are reliable, scalable, and e
 
 **AI-powered influencer marketing platform**
 
-A platform designed to connect brands and creators and simplify influencer collaboration workflows.
+Connects brands with creators and simplifies influencer collaboration workflows through a focused modern web experience.
 
 **Stack**
 
-`TypeScript` `React` `Next.js` `Convex` `Vercel`
+`TypeScript` · `React` · `Next.js` · `Convex` · `Vercel`
 
 <br>
 
@@ -129,11 +129,11 @@ View project →
 
 **AI gateway and developer platform**
 
-A platform focused on API access, usage credits, analytics, and AI-powered developer tooling.
+A platform focused on AI access, usage credits, API management, analytics, and developer tooling.
 
 **Stack**
 
-`TypeScript` `Next.js` `Node.js` `Convex`
+`TypeScript` · `Next.js` · `Node.js` · `Convex`
 
 <br>
 
@@ -153,12 +153,11 @@ View project →
 
 **Creator productivity platform**
 
-A platform for social content management, scheduling, AI-assisted content creation,
-collaboration, and analytics.
+A creator-focused platform for content management, scheduling, AI-assisted content creation, collaboration, and analytics.
 
 **Stack**
 
-`Kotlin` `Jetpack Compose` `Ktor` `Cloudflare`
+`Kotlin` · `Jetpack Compose` · `Ktor` · `Cloudflare` · `SQLite`
 
 </td>
 
@@ -168,53 +167,50 @@ collaboration, and analytics.
 
 **Pharmacy management system**
 
-A desktop pharmacy management system covering inventory, purchasing, sales,
-billing, batch expiry, suppliers, and reporting.
+A desktop application covering medicine inventory, purchasing, batch expiry, sales, billing, suppliers, stock management, and reporting.
 
 **Stack**
 
-`C#` `.NET Framework` `Windows Forms` `SQL Server`
+`C#` · `.NET Framework` · `Windows Forms` · `SQL Server`
 
 </td>
 
 </tr>
 </table>
 
----
-
 <div align="center">
 
 <a href="https://github.com/thebikan?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_More_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-<!-- =========================
-     GITHUB ANALYTICS
-     ========================= -->
-
-## 📊 GitHub Analytics
-
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
+
+## 📊 GitHub Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=thebikan&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-  alt="Thebikan GitHub statistics"
+src="https://github-readme-stats.vercel.app/api?username=thebikan&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+width="100%"
+alt="Thebikan GitHub statistics"
 />
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
+
+## 💻 Top Languages
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebikan&layout=compact&hide_border=true&theme=transparent"
-  alt="Thebikan top languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebikan&layout=compact&hide_border=true&theme=transparent"
+width="100%"
+alt="Thebikan top languages"
 />
 
 </td>
@@ -229,17 +225,13 @@ billing, batch expiry, suppliers, and reporting.
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=thebikan&theme=transparent&hide_border=true"
-  alt="Thebikan GitHub contribution streak"
+src="https://streak-stats.demolab.com?user=thebikan&theme=transparent&hide_border=true"
+alt="Thebikan contribution streak"
 />
 
 </div>
 
 ---
-
-<!-- =========================
-     DEVELOPMENT FOCUS
-     ========================= -->
 
 ## 🎯 Current Focus
 
@@ -250,7 +242,7 @@ billing, batch expiry, suppliers, and reporting.
 
 ### 🌐 Full-Stack
 
-Scalable web applications
+Building scalable web applications
 
 </td>
 
@@ -258,7 +250,7 @@ Scalable web applications
 
 ### 🤖 AI
 
-AI-powered products
+Creating useful AI-powered products
 
 </td>
 
@@ -266,7 +258,7 @@ AI-powered products
 
 ### ⚙️ Backend
 
-APIs & architecture
+Reliable APIs and architecture
 
 </td>
 
@@ -274,7 +266,7 @@ APIs & architecture
 
 ### 🎨 UX
 
-Clean digital experiences
+Clean and practical experiences
 
 </td>
 
@@ -283,37 +275,36 @@ Clean digital experiences
 
 ---
 
-<!-- =========================
-     DEVELOPMENT PHILOSOPHY
-     ========================= -->
-
 ## 🧠 Engineering Philosophy
 
-> Build useful software.  
-> Keep the experience simple.  
-> Write maintainable code.  
-> Improve every iteration.
+<div align="center">
+
+> **Build useful software.**
+>
+> **Keep the experience simple.**
+>
+> **Write maintainable code.**
+>
+> **Improve every iteration.**
+
+</div>
 
 ---
-
-<!-- =========================
-     CONNECT
-     ========================= -->
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://thebikan.dev">
-<img src="https://img.shields.io/badge/Website-thebikan.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-thebikan.dev-B8FF00?style=for-the-badge&logo=googlechrome&logoColor=111827" />
 </a>
 
 <a href="https://github.com/thebikan">
-<img src="https://img.shields.io/badge/GitHub-thebikan-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-thebikan-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/thebikan/">
-<img src="https://img.shields.io/badge/LinkedIn-Thebikan-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Thebikan-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -323,10 +314,5 @@ Clean digital experiences
 <div align="center">
 
 ### ⚡ Building software with purpose.
-
-<img
-  src="https://komarev.com/ghpvc/?username=thebikan&style=flat-square&color=9CFF00&label=PROFILE+VIEWS"
-  alt="Profile views"
-/>
 
 </div>
