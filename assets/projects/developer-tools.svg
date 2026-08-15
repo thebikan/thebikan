@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="212" viewBox="0 0 340 212" role="img" aria-label="Developer Tools - UTILITIES. A growing collection of useful developer utilities, experiments, and software projects.">
+<rect x="0.6" y="0.6" width="338.8" height="210.8" rx="10" fill="#0F141A" stroke="#2A313A" stroke-width="1.2" />
+  <g transform="translate(20 21) scale(0.72)" fill="none" stroke="#C8FF2E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3.2A2.2 2.2 0 0 1 4.2 1H17v18H4.2A2.2 2.2 0 0 0 2 21.2z" /><path d="M2 16.4A2.2 2.2 0 0 1 4.2 14.2H17" stroke-opacity="0.5" /></g>
+  <text x="45" y="37" fill="#C8FF2E" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="-0.2">Developer Tools</text>
+  <rect x="20" y="52" width="75" height="21" rx="10.5" fill="none" stroke="#30363D" stroke-width="1.2" />
+  <text x="58" y="66.5" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.1" text-anchor="middle">UTILITIES</text>
+  <text x="20" y="97" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">A growing collection of useful developer utilities,</text>
+  <text x="20" y="116" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">experiments, and software projects.</text>
+  <line x1="20" y1="168" x2="320" y2="168" stroke="#21262D" stroke-width="1" />
+</svg>

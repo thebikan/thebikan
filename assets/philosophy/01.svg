@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="158" viewBox="0 0 340 158" role="img" aria-label="01. Simple by default. Complexity should be earned, never assumed. The best solution is usually the one with the fewest moving parts.">
+<rect x="0.6" y="0.6" width="338.8" height="156.8" rx="10" fill="#0F141A" stroke="#2A313A" stroke-width="1.2" />
+  <text x="20" y="34" fill="#C8FF2E" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="2.5" font-weight="600">01</text>
+  <line x1="20" y1="44" x2="44" y2="44" stroke="#C8FF2E" stroke-width="1.8" />
+  <text x="20" y="74" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700" letter-spacing="-0.2">Simple by default</text>
+  <text x="20" y="100" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5">Complexity should be earned, never assumed. The</text>
+  <text x="20" y="118" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5">best solution is usually the one with the fewest</text>
+  <text x="20" y="136" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5">moving parts.</text>
+</svg>
