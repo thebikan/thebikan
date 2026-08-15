@@ -1,23 +1,27 @@
+<!-- =========================================================
+     THEBIKAN GITHUB PROFILE README
+     Replace only the placeholders marked with YOUR_...
+     ========================================================= -->
+
 # Hi, I'm Thebikan Sriranganathan 👋
 
 ### Software Engineer · Full-Stack Developer · AI & Web Applications
 
-I build scalable web applications, AI-powered platforms, and practical digital products with a focus on clean interfaces, reliable backend systems, and great user experiences.
+I build scalable web applications, AI-powered platforms, and digital products with a strong focus on clean interfaces, reliable backend systems, and practical user experiences.
 
 🌐 **Portfolio:** [thebikan.dev](https://thebikan.dev)  
-💻 **GitHub:** [@thebikan](https://github.com/thebikan)  
-💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/thebikan/)
+💻 **GitHub:** [@theby2006](https://github.com/theby2006)
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 💻 Software Engineer focused on full-stack development
-- 🌐 Building modern and scalable web applications
-- 🤖 Interested in AI-powered platforms and developer tools
-- 🎨 Passionate about clean UI/UX and practical digital products
-- ⚙️ Interested in backend architecture, APIs, and system design
-- 🚀 Continuously building and improving real-world software
+- 💻 Software Engineer focused on full-stack web development
+- 🌐 Building responsive and scalable web applications
+- 🤖 Interested in AI-powered products and developer tools
+- 🧩 Passionate about clean UI, reliable backend systems, and good UX
+- 🚀 Building and improving real-world software projects
+- 📚 Continuously improving system design, backend architecture, and development practices
 
 ---
 
@@ -29,6 +33,8 @@ I build scalable web applications, AI-powered platforms, and practical digital p
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
 
@@ -42,14 +48,15 @@ I build scalable web applications, AI-powered platforms, and practical digital p
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
 ### 🔗 Connectify
 
-AI-powered influencer marketing platform connecting brands and creators.
+AI-powered influencer marketing platform designed to connect brands with creators and simplify collaboration workflows.
 
 **Tech:** TypeScript · React · Next.js · Convex · Vercel
 
@@ -57,7 +64,7 @@ AI-powered influencer marketing platform connecting brands and creators.
 
 ### 🤖 NovaCredit
 
-AI gateway platform focused on API access, usage credits, analytics, and developer tooling.
+AI gateway platform focused on API access, credit-based usage, analytics, and developer tooling.
 
 **Tech:** TypeScript · React · Next.js · Node.js · Convex · AI APIs
 
@@ -65,25 +72,42 @@ AI gateway platform focused on API access, usage credits, analytics, and develop
 
 ### 📱 CreatorOS
 
-Creator-focused application for social content management, scheduling, AI-assisted content creation, collaboration, and analytics.
+A creator-focused platform for social content management, scheduling, AI-assisted content creation, collaboration, and analytics.
 
 **Tech:** Kotlin · Jetpack Compose · Ktor · Cloudflare · SQLite
 
 ---
 
-### 💊 SmartMed
+### 💊 SmartMed Pharmacy Management System
 
-Pharmacy management system for medicine inventory, purchases, sales, billing, expiry tracking, suppliers, and reporting.
+A desktop pharmacy management system for inventory, purchases, batch expiry, sales, billing, suppliers, reports, and stock management.
 
 **Tech:** C# · .NET Framework · Windows Forms · SQL Server · ADO.NET
 
 ---
 
-## 🌐 Portfolio
+### 🌐 My Portfolio
 
-Explore my work, projects, software engineering journey, and experiments:
+My personal developer portfolio showcasing my work, projects, experience, skills, and software engineering journey.
 
-### [thebikan.dev →](https://thebikan.dev)
+**Tech:** Next.js · TypeScript · Tailwind CSS
+
+🌐 [Visit my portfolio →](https://thebikan.dev)
+
+---
+
+## 📊 GitHub Activity
+
+<!-- Replace the username only if your GitHub username changes. -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theby2006&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=theby2006&theme=transparent&hide_border=true)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theby2006&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
