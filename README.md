@@ -1,102 +1,102 @@
 <!-- =========================================================
-     THEBIKAN — GITHUB PROFILE README
-     Premium developer portfolio style
+     THEBIKAN — PREMIUM GITHUB PROFILE
+     Username: thebikan
      ========================================================= -->
 
 <!-- =========================
-     HERO / IDENTITY
+     HERO
      ========================= -->
 
-<table>
-<tr>
-<td width="28%" align="center" valign="top">
+<div align="center">
 
-<img
-  src="https://github.com/thebikan.png?size=400"
-  width="180"
-  height="180"
-  style="border-radius: 50%;"
-  alt="Thebikan Sriranganathan"
-/>
-
-<br><br>
-
-# Thebikan Sriranganathan
-
-### Software Engineer
-
-Full-Stack Developer  
-AI & Web Applications
-
-<br>
-
-📍 **Jaffna, Sri Lanka**
-
-🌐 [thebikan.dev](https://thebikan.dev)
-
-💻 [github.com/thebikan](https://github.com/thebikan)
-
-💼 [LinkedIn](https://www.linkedin.com/in/thebikan/)
-
-<br>
-
-### Profile Focus
-
-**16+ Projects**
-
-**12+ Clients**
-
-**1+ Years Experience**
-
-<br>
-
-</td>
-
-<td width="50%" valign="top">
-
-# Hi, I'm <span style="color:#B8FF00;">Thebikan</span> 👋
+# Hi, I'm <span>Thebikan Sriranganathan</span> 👋
 
 ### Software Engineer · Full-Stack Developer · AI & Web Applications
 
-I build modern web applications, AI-powered platforms, and practical digital products with a strong focus on clean interfaces, reliable backend systems, performance, and useful user experiences.
+I build modern web applications, AI-powered platforms, and practical digital products
+with a focus on clean interfaces, reliable backend systems, performance, and great UX.
+
+<br>
+
+<a href="https://thebikan.dev">
+  <img src="https://img.shields.io/badge/Portfolio-thebikan.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/thebikan">
+  <img src="https://img.shields.io/badge/GitHub-thebikan-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/thebikan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Thebikan-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
 
 ---
+
+<!-- =========================
+     QUICK STATS
+     ========================= -->
+
+<div align="center">
+
+| 🚀 Projects | 🤝 Clients | 💼 Experience | 🌐 Portfolio |
+|:---:|:---:|:---:|:---:|
+| **16+** | **12+** | **1+ Years** | **thebikan.dev** |
+
+</div>
+
+---
+
+<!-- =========================
+     ABOUT
+     ========================= -->
 
 ## 👨‍💻 About Me
 
-- 💻 Building full-stack web applications
-- 🤖 Exploring AI-powered products and developer tools
-- 🎨 Interested in UI/UX and meaningful digital experiences
-- ⚙️ Focused on scalable backend systems and APIs
-- 🚀 Building practical software through real-world projects
-- 📚 Continuously improving system design and engineering practices
+I'm a software engineer focused on building useful digital products that combine
+strong engineering with thoughtful user experience.
+
+My work mainly spans full-stack web development, AI-powered applications,
+backend systems, APIs, dashboards, and modern developer tools.
+
+I enjoy turning ideas into practical products that are reliable, scalable, and easy to use.
 
 ---
 
-## 🛠️ Tech Stack
+<!-- =========================
+     TECHNOLOGIES
+     ========================= -->
+
+## ⚡ Tools & Technologies
+
+<div align="center">
 
 ### Frontend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind" />
 
-### Backend
+<br><br>
 
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
-![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=fastapi&logoColor=FFFFFF)
-![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=DC382D)
+### Backend & Data
 
-### Tools
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,redis" />
 
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Convex](https://img.shields.io/badge/Convex-111827?style=flat-square&logoColor=FFFFFF)
+<br><br>
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,docker,aws" />
+
+</div>
 
 ---
+
+<!-- =========================
+     FEATURED PROJECTS
+     ========================= -->
 
 ## 🚀 Featured Projects
 
@@ -107,13 +107,19 @@ I build modern web applications, AI-powered platforms, and practical digital pro
 
 ### 🔗 Connectify
 
-AI-powered influencer marketing platform connecting brands with creators.
+**AI-powered influencer marketing platform**
 
-**Tech**
+A platform designed to connect brands and creators and simplify influencer collaboration workflows.
 
-`TypeScript` `React` `Next.js` `Convex`
+**Stack**
 
-[View project →](https://connectify-labs.vercel.app)
+`TypeScript` `React` `Next.js` `Convex` `Vercel`
+
+<br>
+
+<a href="https://connectify-labs.vercel.app">
+View project →
+</a>
 
 </td>
 
@@ -121,11 +127,19 @@ AI-powered influencer marketing platform connecting brands with creators.
 
 ### 🤖 NovaCredit
 
-AI gateway platform focused on API access, usage credits, analytics, and developer tooling.
+**AI gateway and developer platform**
 
-**Tech**
+A platform focused on API access, usage credits, analytics, and AI-powered developer tooling.
+
+**Stack**
 
 `TypeScript` `Next.js` `Node.js` `Convex`
+
+<br>
+
+<a href="https://nova-credit-wheat.vercel.app">
+View project →
+</a>
 
 </td>
 
@@ -137,11 +151,14 @@ AI gateway platform focused on API access, usage credits, analytics, and develop
 
 ### 📱 CreatorOS
 
-Creator-focused platform for content management, scheduling, AI assistance, collaboration, and analytics.
+**Creator productivity platform**
 
-**Tech**
+A platform for social content management, scheduling, AI-assisted content creation,
+collaboration, and analytics.
 
-`Kotlin` `Jetpack Compose` `Ktor`
+**Stack**
+
+`Kotlin` `Jetpack Compose` `Ktor` `Cloudflare`
 
 </td>
 
@@ -149,11 +166,14 @@ Creator-focused platform for content management, scheduling, AI assistance, coll
 
 ### 💊 SmartMed
 
-Pharmacy management system covering inventory, purchasing, sales, billing, expiry tracking, and reporting.
+**Pharmacy management system**
 
-**Tech**
+A desktop pharmacy management system covering inventory, purchasing, sales,
+billing, batch expiry, suppliers, and reporting.
 
-`C#` `.NET` `Windows Forms` `SQL Server`
+**Stack**
+
+`C#` `.NET Framework` `Windows Forms` `SQL Server`
 
 </td>
 
@@ -162,116 +182,130 @@ Pharmacy management system covering inventory, purchasing, sales, billing, expir
 
 ---
 
-### 🌐 Portfolio
+<div align="center">
 
-**[Visit thebikan.dev →](https://thebikan.dev)**
+<a href="https://github.com/thebikan?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-My portfolio contains my selected work, projects, experiments, and software engineering journey.
-
-</td>
-
-<td width="22%" valign="top">
-
-# ⚡ Tools & Technologies
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs" />
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-
-### Backend & Data
-
-<img src="https://skillicons.dev/icons?i=postgres,redis" />
-
-### DevOps
-
-<img src="https://skillicons.dev/icons?i=git,docker,aws" />
-
-### Design
-
-<img src="https://skillicons.dev/icons?i=figma" />
+</div>
 
 ---
 
-# 📊 GitHub Stats
+<!-- =========================
+     GITHUB ANALYTICS
+     ========================= -->
+
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+
+<td width="50%" align="center">
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=thebikan&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-  width="100%"
-  alt="GitHub statistics"
-/>
-
----
-
-# 🔥 Streak
-
-<img
-  src="https://streak-stats.demolab.com?user=thebikan&hide_border=true&theme=transparent"
-  width="100%"
-  alt="GitHub streak"
-/>
-
----
-
-# 💻 Top Languages
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebikan&layout=compact&hide_border=true&theme=transparent"
-  width="100%"
-  alt="Top programming languages"
+  alt="Thebikan GitHub statistics"
 />
 
 </td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebikan&layout=compact&hide_border=true&theme=transparent"
+  alt="Thebikan top languages"
+/>
+
+</td>
+
 </tr>
 </table>
 
 ---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=thebikan&theme=transparent&hide_border=true"
+  alt="Thebikan GitHub contribution streak"
+/>
+
+</div>
+
+---
+
+<!-- =========================
+     DEVELOPMENT FOCUS
+     ========================= -->
 
 ## 🎯 Current Focus
 
 <table>
 <tr>
-<td align="center">
 
-### Full-Stack
-Building scalable web applications
+<td align="center" width="25%">
 
-</td>
+### 🌐 Full-Stack
 
-<td align="center">
-
-### AI
-Creating useful AI-powered products
+Scalable web applications
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### Backend
-Reliable APIs and architecture
+### 🤖 AI
+
+AI-powered products
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+APIs & architecture
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### UX
-Clean and practical experiences
+### 🎨 UX
+
+Clean digital experiences
 
 </td>
+
 </tr>
 </table>
 
 ---
 
+<!-- =========================
+     DEVELOPMENT PHILOSOPHY
+     ========================= -->
+
+## 🧠 Engineering Philosophy
+
+> Build useful software.  
+> Keep the experience simple.  
+> Write maintainable code.  
+> Improve every iteration.
+
+---
+
+<!-- =========================
+     CONNECT
+     ========================= -->
+
 ## 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://thebikan.dev">
-<img src="https://img.shields.io/badge/Portfolio-thebikan.dev-B8FF00?style=for-the-badge&logo=googlechrome&logoColor=000000" />
+<img src="https://img.shields.io/badge/Website-thebikan.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="https://github.com/thebikan">
@@ -279,22 +313,20 @@ Clean and practical experiences
 </a>
 
 <a href="https://www.linkedin.com/in/thebikan/">
-<img src="https://img.shields.io/badge/LinkedIn-Thebikan-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LinkedIn-Thebikan-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</p>
-
----
-
-<p align="center">
-
-### ⚡ Building software with purpose.
+</div>
 
 <br>
 
+<div align="center">
+
+### ⚡ Building software with purpose.
+
 <img
-  src="https://komarev.com/ghpvc/?username=thebikan&style=flat-square&color=B8FF00&label=PROFILE+VIEWS"
+  src="https://komarev.com/ghpvc/?username=thebikan&style=flat-square&color=9CFF00&label=PROFILE+VIEWS"
   alt="Profile views"
 />
 
-</p>
+</div>
