@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="systems">
+  <rect x="0.9" y="0.9" width="46.2" height="46.2" rx="13" fill="#10151B" stroke="#21262D" stroke-width="1.8" />
+  <g transform="translate(12 12)" fill="none" stroke="#C8FF2E" stroke-width="1.7"
+     stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3.6" y="4.4" width="16.8" height="5.2" rx="1.8" /><rect x="3.6" y="14.4" width="16.8" height="5.2" rx="1.8" /><path d="M7 7h.02M7 17h.02" stroke-width="2.4" />
+  </g>
+</svg>

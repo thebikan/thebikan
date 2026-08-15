@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="ux">
+  <rect x="0.9" y="0.9" width="46.2" height="46.2" rx="13" fill="#10151B" stroke="#21262D" stroke-width="1.8" />
+  <g transform="translate(12 12)" fill="none" stroke="#C8FF2E" stroke-width="1.7"
+     stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3.8" y="4.8" width="16.4" height="14.4" rx="2.4" /><path d="M3.8 9.4h16.4" stroke-opacity="0.6" /><path d="M9.6 9.4v9.8" stroke-opacity="0.6" /><circle cx="6.6" cy="7.1" r="0.85" stroke="none" fill="#C8FF2E" />
+  </g>
+</svg>

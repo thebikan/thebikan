@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="engineering">
+  <rect x="0.9" y="0.9" width="46.2" height="46.2" rx="13" fill="#10151B" stroke="#21262D" stroke-width="1.8" />
+  <g transform="translate(12 12)" fill="none" stroke="#C8FF2E" stroke-width="1.7"
+     stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9 7.5 4 12l5 4.5" /><path d="M15 7.5 20 12l-5 4.5" /><path d="M13.4 5.6 10.6 18.4" stroke-opacity="0.55" />
+  </g>
+</svg>
