@@ -1,99 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="236" viewBox="0 0 1000 236" role="img" aria-label="Hi, I'm Thebikan - Software Engineer, Full-Stack Developer, AI &amp; Web Applications">
-<rect x="0.6" y="0.6" width="998.8" height="234.8" rx="12" fill="#0F141A" stroke="#2A313A" stroke-width="1.2" />
-  <!-- filename bar, mirroring the reference card header -->
-  <text x="28" y="31" fill="#6E7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">thebikan / README.md</text>
-  <line x1="20" y1="47" x2="980" y2="47" stroke="#21262D" stroke-width="1" />
+<!--
+  Paste this whole file as README.md in repo  thebikan/thebikan  (no extra files needed).
+  Replace YOUR_EMAIL below. Accent: lime #c9ee52 | card bg: #0d1117
+-->
 
-  <line x1="860" y1="118" x2="820" y2="98" stroke="#C8FF2E" stroke-width="1" stroke-opacity="0.24" />
-  <line x1="860" y1="118" x2="900" y2="138" stroke="#C8FF2E" stroke-width="1" stroke-opacity="0.24" />
-  <line x1="860" y1="118" x2="840" y2="158" stroke="#C8FF2E" stroke-width="1" stroke-opacity="0.24" />
-  <circle cx="700" cy="78" r="1.5" fill="#30363D" fill-opacity="0.2" />
-  <circle cx="700" cy="98" r="1.5" fill="#30363D" fill-opacity="0.2" />
-  <circle cx="700" cy="118" r="1.5" fill="#30363D" fill-opacity="0.2" />
-  <circle cx="700" cy="138" r="1.5" fill="#30363D" fill-opacity="0.2" />
-  <circle cx="700" cy="158" r="1.5" fill="#30363D" fill-opacity="0.2" />
-  <circle cx="700" cy="178" r="1.5" fill="#30363D" fill-opacity="0.2" />
-  <circle cx="720" cy="78" r="1.5" fill="#30363D" fill-opacity="0.255" />
-  <circle cx="720" cy="98" r="1.5" fill="#30363D" fill-opacity="0.255" />
-  <circle cx="720" cy="118" r="1.5" fill="#30363D" fill-opacity="0.255" />
-  <circle cx="720" cy="138" r="1.5" fill="#30363D" fill-opacity="0.255" />
-  <circle cx="720" cy="158" r="1.5" fill="#30363D" fill-opacity="0.255" />
-  <circle cx="720" cy="178" r="1.5" fill="#30363D" fill-opacity="0.255" />
-  <circle cx="740" cy="78" r="1.5" fill="#30363D" fill-opacity="0.31" />
-  <circle cx="740" cy="98" r="1.5" fill="#30363D" fill-opacity="0.31" />
-  <circle cx="740" cy="118" r="1.5" fill="#30363D" fill-opacity="0.31" />
-  <circle cx="740" cy="138" r="1.5" fill="#30363D" fill-opacity="0.31" />
-  <circle cx="740" cy="158" r="1.5" fill="#30363D" fill-opacity="0.31" />
-  <circle cx="740" cy="178" r="1.5" fill="#30363D" fill-opacity="0.31" />
-  <circle cx="760" cy="78" r="1.5" fill="#30363D" fill-opacity="0.365" />
-  <circle cx="760" cy="98" r="1.5" fill="#30363D" fill-opacity="0.365" />
-  <circle cx="760" cy="118" r="1.5" fill="#30363D" fill-opacity="0.365" />
-  <circle cx="760" cy="138" r="1.5" fill="#30363D" fill-opacity="0.365" />
-  <circle cx="760" cy="158" r="1.5" fill="#30363D" fill-opacity="0.365" />
-  <circle cx="760" cy="178" r="1.5" fill="#30363D" fill-opacity="0.365" />
-  <circle cx="780" cy="78" r="1.5" fill="#30363D" fill-opacity="0.42" />
-  <circle cx="780" cy="98" r="1.5" fill="#30363D" fill-opacity="0.42" />
-  <circle cx="780" cy="118" r="1.5" fill="#30363D" fill-opacity="0.42" />
-  <circle cx="780" cy="138" r="1.5" fill="#30363D" fill-opacity="0.42" />
-  <circle cx="780" cy="158" r="1.5" fill="#30363D" fill-opacity="0.42" />
-  <circle cx="780" cy="178" r="1.5" fill="#30363D" fill-opacity="0.42" />
-  <circle cx="800" cy="78" r="1.5" fill="#30363D" fill-opacity="0.475" />
-  <circle cx="800" cy="98" r="1.5" fill="#30363D" fill-opacity="0.475" />
-  <circle cx="800" cy="118" r="1.5" fill="#30363D" fill-opacity="0.475" />
-  <circle cx="800" cy="138" r="1.5" fill="#30363D" fill-opacity="0.475" />
-  <circle cx="800" cy="158" r="1.5" fill="#30363D" fill-opacity="0.475" />
-  <circle cx="800" cy="178" r="1.5" fill="#30363D" fill-opacity="0.475" />
-  <circle cx="820" cy="78" r="1.5" fill="#30363D" fill-opacity="0.53" />
-  <circle cx="820" cy="98" r="2.2" fill="#C8FF2E" fill-opacity="0.5" />
-  <circle cx="820" cy="118" r="1.5" fill="#30363D" fill-opacity="0.53" />
-  <circle cx="820" cy="138" r="1.5" fill="#30363D" fill-opacity="0.53" />
-  <circle cx="820" cy="158" r="1.5" fill="#30363D" fill-opacity="0.53" />
-  <circle cx="820" cy="178" r="1.5" fill="#30363D" fill-opacity="0.53" />
-  <circle cx="840" cy="78" r="1.5" fill="#30363D" fill-opacity="0.585" />
-  <circle cx="840" cy="98" r="1.5" fill="#30363D" fill-opacity="0.585" />
-  <circle cx="840" cy="118" r="1.5" fill="#30363D" fill-opacity="0.585" />
-  <circle cx="840" cy="138" r="1.5" fill="#30363D" fill-opacity="0.585" />
-  <circle cx="840" cy="158" r="2.2" fill="#C8FF2E" fill-opacity="0.5" />
-  <circle cx="840" cy="178" r="1.5" fill="#30363D" fill-opacity="0.585" />
-  <circle cx="860" cy="78" r="1.5" fill="#30363D" fill-opacity="0.64" />
-  <circle cx="860" cy="98" r="1.5" fill="#30363D" fill-opacity="0.64" />
-  <circle cx="860" cy="138" r="1.5" fill="#30363D" fill-opacity="0.64" />
-  <circle cx="860" cy="158" r="1.5" fill="#30363D" fill-opacity="0.64" />
-  <circle cx="860" cy="178" r="1.5" fill="#30363D" fill-opacity="0.64" />
-  <circle cx="880" cy="78" r="1.5" fill="#30363D" fill-opacity="0.695" />
-  <circle cx="880" cy="98" r="1.5" fill="#30363D" fill-opacity="0.695" />
-  <circle cx="880" cy="118" r="1.5" fill="#30363D" fill-opacity="0.695" />
-  <circle cx="880" cy="138" r="1.5" fill="#30363D" fill-opacity="0.695" />
-  <circle cx="880" cy="158" r="1.5" fill="#30363D" fill-opacity="0.695" />
-  <circle cx="880" cy="178" r="1.5" fill="#30363D" fill-opacity="0.695" />
-  <circle cx="900" cy="78" r="1.5" fill="#30363D" fill-opacity="0.75" />
-  <circle cx="900" cy="98" r="1.5" fill="#30363D" fill-opacity="0.75" />
-  <circle cx="900" cy="118" r="1.5" fill="#30363D" fill-opacity="0.75" />
-  <circle cx="900" cy="138" r="2.2" fill="#C8FF2E" fill-opacity="0.5" />
-  <circle cx="900" cy="158" r="1.5" fill="#30363D" fill-opacity="0.75" />
-  <circle cx="900" cy="178" r="1.5" fill="#30363D" fill-opacity="0.75" />
-  <circle cx="920" cy="78" r="1.5" fill="#30363D" fill-opacity="0.805" />
-  <circle cx="920" cy="98" r="1.5" fill="#30363D" fill-opacity="0.805" />
-  <circle cx="920" cy="118" r="1.5" fill="#30363D" fill-opacity="0.805" />
-  <circle cx="920" cy="138" r="1.5" fill="#30363D" fill-opacity="0.805" />
-  <circle cx="920" cy="158" r="1.5" fill="#30363D" fill-opacity="0.805" />
-  <circle cx="920" cy="178" r="1.5" fill="#30363D" fill-opacity="0.805" />
-  <circle cx="940" cy="78" r="1.5" fill="#30363D" fill-opacity="0.86" />
-  <circle cx="940" cy="98" r="1.5" fill="#30363D" fill-opacity="0.86" />
-  <circle cx="940" cy="118" r="1.5" fill="#30363D" fill-opacity="0.86" />
-  <circle cx="940" cy="138" r="1.5" fill="#30363D" fill-opacity="0.86" />
-  <circle cx="940" cy="158" r="1.5" fill="#30363D" fill-opacity="0.86" />
-  <circle cx="940" cy="178" r="1.5" fill="#30363D" fill-opacity="0.86" />
-  <circle cx="860" cy="118" r="3.6" fill="#C8FF2E" />
+<div align="center">
 
-  <text x="28" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.3">
-    <tspan fill="#E6EDF3">Hi, I'm </tspan><tspan x="125.9" fill="#C8FF2E">Thebikan</tspan>
-  </text>
-  <text x="28" y="126" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="500">Software Engineer  |  Full-Stack Developer  |  AI &amp; Web Applications</text>
-  <text x="28" y="156" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">Building modern web applications, AI-powered platforms, developer tools,</text>
-  <text x="28" y="176" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">and practical digital products — with clean architecture and thoughtful UX.</text>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,55:3f6212,100:c9ee52&animation=twinkling&section=header&text=Thebikan&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Jaffna%2C%20Sri%20Lanka&descSize=18&descAlignY=60&descColor=ffffff" width="100%" alt="Thebikan banner" />
 
-  <rect x="28" y="196" width="26" height="1.6" fill="#C8FF2E" />
-  <text x="68" y="201" fill="#6E7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2">THEBIKAN.DEV</text>
-</svg>
+<a href="https://thebikan.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C9EE52&center=true&vCenter=true&repeat=true&width=620&height=60&lines=%24+whoami;Thebikan+Sriranganathan;Full-Stack+Developer;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+C%23;Open+to+junior+%26+remote+roles" alt="typing intro" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Jaffna%2C%20Sri%20Lanka-0d1117?style=for-the-badge&logo=googlemaps&logoColor=c9ee52" alt="location" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-c9ee52?style=for-the-badge&logoColor=0d1117&labelColor=0d1117" alt="open to work" />
+<img src="https://komarev.com/ghpvc/?username=thebikan&label=Profile%20views&color=c9ee52&style=for-the-badge&labelColor=0d1117" alt="views" />
+
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+Final-year **BSc (Hons) Computer Science** student at ESOFT Metro Campus (London Metropolitan University), based in **Jaffna, Sri Lanka**.
+
+I build full-stack web platforms with **TypeScript, React / Next.js, Node.js, C# and SQL Server**, and I use AI-assisted tools like **Cursor** to ship faster without dropping code quality.
+
+> 🎯 **Goal:** write clean code, build reliable software, and grow into an engineer who creates systems that last.
+
+<br/>
+
+## 🛠️ Featured Projects
+
+<table>
+  <tr>
+    <td width="26%"><b>⚡ CreatorOS</b></td>
+    <td>AI-powered social media management SaaS for marketing agencies.<br/>
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=c9ee52" />
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=c9ee52" />
+      <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=c9ee52" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤝 Connectify</b></td>
+    <td>Two-sided influencer ↔ business marketplace — final year project.<br/>
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=c9ee52" />
+      <img src="https://img.shields.io/badge/Full--Stack-0d1117?style=flat-square&logoColor=c9ee52" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>💳 NovaCredit</b></td>
+    <td>Solo full-stack build — currently in progress.<br/>
+      <img src="https://img.shields.io/badge/In%20Progress-c9ee52?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>💊 SmartMed</b></td>
+    <td>Pharmacy management system — layered C# .NET WinForms app (UI / BLL / DAL) with SQL Server, unit tests and a test plan.<br/>
+      <img src="https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=c9ee52" />
+      <img src="https://img.shields.io/badge/SQL%20Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=c9ee52" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,cs,dotnet,java,go,postgres,mysql,docker,git,github,vscode,html,css,tailwind,figma&theme=dark&perline=10" alt="tech stack" />
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thebikan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9ee52&icon_color=c9ee52&text_color=c9d1d9&ring_color=c9ee52" alt="stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebikan&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9ee52&text_color=c9d1d9" alt="top languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=thebikan&hide_border=true&background=0d1117&ring=c9ee52&fire=c9ee52&currStreakLabel=c9ee52&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
+</p>
+
+<br/>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thebikan&bg_color=0d1117&color=c9ee52&line=c9ee52&point=ffffff&area=true&area_color=c9ee52&hide_border=true" alt="activity graph" />
+</p>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://thebikan.dev"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=c9ee52" alt="portfolio" /></a>
+  <a href="https://linkedin.com/in/thebikan"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9ee52" alt="linkedin" /></a>
+  <a href="https://x.com/Thebikan_"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=c9ee52" alt="x" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c9ee52" alt="email" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0d1117,100:c9ee52&section=footer" width="100%" alt="footer" />
