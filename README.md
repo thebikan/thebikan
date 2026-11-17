@@ -1,106 +1,106 @@
-<!-- Replace every "thebikan" with your real GitHub username, and YOUR_EMAIL with your email -->
+<!--
+  SETUP
+  1. Put this file at the ROOT of your repo  thebikan/thebikan  (README.md)
+  2. Create a folder  assets/  in that repo and upload  hero.svg  into it
+  3. Replace YOUR_EMAIL below. Username is already "thebikan".
+  Accent colour: lime #c9ee52 (matches your profile photo)  |  Card bg: #0d1117
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:166534,100:39ff14&text=Thebikan&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Junior%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=60" width="100%" alt="banner" />
+<img src="assets/hero.svg" alt="Thebikan – Full-Stack Developer" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Thebikan;Full-Stack+Developer+from+Jaffna%2C+Sri+Lanka;Building+real-world+platforms;Open+to+junior+%26+remote+roles" alt="Typing SVG" />
-</a>
+<br/>
+
+<img src="https://img.shields.io/badge/Jaffna%2C%20Sri%20Lanka-0d1117?style=for-the-badge&logo=googlemaps&logoColor=c9ee52" alt="location" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-c9ee52?style=for-the-badge&logoColor=0d1117&labelColor=0d1117" alt="open to work" />
+<img src="https://komarev.com/ghpvc/?username=thebikan&label=Profile%20views&color=c9ee52&style=for-the-badge&labelColor=0d1117" alt="views" />
 
 </div>
 
----
+<br/>
 
-<h2 align="center">🚀 About Me</h2>
+## 🚀 About Me
 
-<p align="center">
-Final-year <b>BSc (Hons) Computer Science</b> student at ESOFT Metro Campus (London Met), based in <b>Jaffna, Sri Lanka</b>.<br/>
-I build full-stack web platforms with <b>TypeScript, React / Next.js, Node.js, C# and SQL Server</b>,<br/>
-and I use AI-assisted tools like <b>Cursor</b> to ship faster without dropping code quality.
-</p>
+Final-year **BSc (Hons) Computer Science** student at ESOFT Metro Campus (London Metropolitan University), based in **Jaffna, Sri Lanka**.
 
-<p align="center">
-🎯 My goal: write clean code, build reliable software, and grow into an engineer who creates systems that last.
-</p>
+I build full-stack web platforms with **TypeScript, React / Next.js, Node.js, C# and SQL Server**, and I use AI-assisted tools like **Cursor** to ship faster without dropping code quality.
 
----
+> 🎯 **Goal:** write clean code, build reliable software, and grow into an engineer who creates systems that last.
 
-<h2 align="center">🛠️ Projects</h2>
+<br/>
 
-<table align="center">
+## 🛠️ Featured Projects
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ CreatorOS</h3>
-      AI-powered social media management SaaS for marketing agencies.<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=39ff14" />
-      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=39ff14" />
-      <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=39ff14" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤝 Connectify</h3>
-      Two-sided influencer ↔ business marketplace (final year project).<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=39ff14" />
-      <img src="https://img.shields.io/badge/Full--Stack-0d1117?style=flat-square&logoColor=39ff14" />
+    <td width="26%"><b>⚡ CreatorOS</b></td>
+    <td>AI-powered social media management SaaS for marketing agencies.<br/>
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=c9ee52" />
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=c9ee52" />
+      <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=c9ee52" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>💳 NovaCredit</h3>
-      Solo full-stack build, currently in progress.<br/><br/>
-      <img src="https://img.shields.io/badge/In%20Progress-0d1117?style=flat-square&color=39ff14&labelColor=0d1117" />
+    <td><b>🤝 Connectify</b></td>
+    <td>Two-sided influencer ↔ business marketplace — final year project.<br/>
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=c9ee52" />
+      <img src="https://img.shields.io/badge/Full--Stack-0d1117?style=flat-square&logoColor=c9ee52" />
     </td>
-    <td width="50%" valign="top">
-      <h3>💊 SmartMed Pharmacy System</h3>
-      Layered C# .NET WinForms app (UI / BLL / DAL) with SQL Server, unit tests and test plan.<br/><br/>
-      <img src="https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=39ff14" />
-      <img src="https://img.shields.io/badge/SQL%20Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=39ff14" />
+  </tr>
+  <tr>
+    <td><b>💳 NovaCredit</b></td>
+    <td>Solo full-stack build — currently in progress.<br/>
+      <img src="https://img.shields.io/badge/In%20Progress-c9ee52?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>💊 SmartMed</b></td>
+    <td>Pharmacy management system — layered C# .NET WinForms app (UI / BLL / DAL) with SQL Server, unit tests and a test plan.<br/>
+      <img src="https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=c9ee52" />
+      <img src="https://img.shields.io/badge/SQL%20Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=c9ee52" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-<h2 align="center">💻 Tech Stack</h2>
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,cs,dotnet,java,go,postgres,mysql,docker,git,github,vscode,html,css,tailwind,figma&theme=dark" alt="tech stack" />
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,cs,dotnet,java,go,postgres,mysql,docker,git,github,vscode,html,css,tailwind,figma&theme=dark&perline=10" alt="tech stack" />
 </p>
 
----
+<br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thebikan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&ring_color=39ff14" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebikan&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" alt="top langs" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thebikan&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
-</p>
-
----
-
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thebikan&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=39ff14&hide_border=true" alt="activity graph" width="100%" />
-</p>
-
----
-
-<h2 align="center">🤝 Connect</h2>
-
-<p align="center">
-  <a href="https://github.com/thebikan"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39ff14" /></a>
-  <a href="https://linkedin.com/in/thebikan"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff14" /></a>
-  <a href="https://thebikan.dev"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39ff14" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14" /></a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thebikan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9ee52&icon_color=c9ee52&text_color=c9d1d9&ring_color=c9ee52" alt="stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebikan&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9ee52&text_color=c9d1d9" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thebikan&color=39ff14&style=flat-square&label=Profile+views" alt="views" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=thebikan&hide_border=true&background=0d1117&ring=c9ee52&fire=c9ee52&currStreakLabel=c9ee52&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:39ff14,50:166534,100:0d1117&section=footer" width="100%" alt="footer" />
+<br/>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thebikan&bg_color=0d1117&color=c9ee52&line=c9ee52&point=ffffff&area=true&area_color=c9ee52&hide_border=true" alt="activity graph" />
+</p>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://thebikan.dev"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=c9ee52" alt="portfolio" /></a>
+  <a href="https://linkedin.com/in/thebikan"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9ee52" alt="linkedin" /></a>
+  <a href="https://x.com/Thebikan_"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=c9ee52" alt="x" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c9ee52" alt="email" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0d1117,100:c9ee52&section=footer" width="100%" alt="footer" />
