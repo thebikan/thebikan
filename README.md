@@ -8,13 +8,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,55:3f6212,100:c9ee52&animation=twinkling&section=header&text=Thebikan&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Jaffna%2C%20Sri%20Lanka&descSize=18&descAlignY=60&descColor=ffffff" width="100%" alt="Thebikan banner" />
 
 <a href="https://thebikan.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C9EE52&center=true&vCenter=true&repeat=true&width=620&height=60&lines=%24+whoami;Thebikan+Sriranganathan;Full-Stack+Developer;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+C%23;Open+to+junior+%26+remote+roles" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C9EE52&center=true&vCenter=true&repeat=true&width=620&height=60&lines=%24+whoami;Thebikan+Sriranganathan;Full-Stack+Developer;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+C%23;Open+to+Junior+Software+Engineer+roles" alt="typing intro" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Jaffna%2C%20Sri%20Lanka-0d1117?style=for-the-badge&logo=googlemaps&logoColor=c9ee52" alt="location" />
-<img src="https://img.shields.io/badge/Open%20to%20Work-c9ee52?style=for-the-badge&logoColor=0d1117&labelColor=0d1117" alt="open to work" />
+<img src="https://img.shields.io/badge/Open%20to-Junior%20Roles-c9ee52?style=for-the-badge&labelColor=0d1117" alt="open to work" />
 <img src="https://komarev.com/ghpvc/?username=thebikan&label=Profile%20views&color=c9ee52&style=for-the-badge&labelColor=0d1117" alt="views" />
 
 </div>
@@ -25,7 +25,7 @@
 
 Final-year **BSc (Hons) Computer Science** student at ESOFT Metro Campus (London Metropolitan University), based in **Jaffna, Sri Lanka**.
 
-I build full-stack web platforms with **TypeScript, React / Next.js, Node.js, C# and SQL Server**, and I use AI-assisted tools like **Cursor** to ship faster without dropping code quality.
+I build full-stack web platforms with **TypeScript, React / Next.js, Node.js, Go and C#**, and I use AI-assisted tools like **Cursor** to ship faster without dropping code quality.
 
 > 🎯 **Goal:** write clean code, build reliable software, and grow into an engineer who creates systems that last.
 
@@ -69,7 +69,7 @@ I build full-stack web platforms with **TypeScript, React / Next.js, Node.js, C#
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,cs,dotnet,java,go,postgres,mysql,docker,git,github,vscode,html,css,tailwind,figma&theme=dark&perline=10" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,cs,dotnet,js,java,postgres,mysql,docker,git,github,vscode,html,css,tailwind,figma&theme=dark&perline=10" alt="tech stack" />
 </p>
 
 <br/>
@@ -78,12 +78,21 @@ I build full-stack web platforms with **TypeScript, React / Next.js, Node.js, C#
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thebikan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9ee52&icon_color=c9ee52&text_color=c9d1d9&ring_color=c9ee52" alt="stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebikan&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9ee52&text_color=c9d1d9" alt="top languages" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=thebikan&hide_border=true&background=0d1117&ring=c9ee52&fire=c9ee52&currStreakLabel=c9ee52&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=thebikan&hide_border=true&background=0d1117&ring=c9ee52&fire=c9ee52&currStreakLabel=c9ee52&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
-</p>
+<br/>
+
+## 🔥 Most Used Languages
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="56" alt="TypeScript" /><br/><b>TypeScript</b><br/><sub>🥇 Most used</sub></td>
+    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="56" alt="React" /><br/><b>React</b><br/><sub>🥈 2nd</sub></td>
+    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="56" alt="Go" /><br/><b>Go</b><br/><sub>🥉 3rd</sub></td>
+    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=cs&theme=dark" height="56" alt="C#" /><br/><b>C#</b><br/><sub>4th</sub></td>
+  </tr>
+</table>
 
 <br/>
 
